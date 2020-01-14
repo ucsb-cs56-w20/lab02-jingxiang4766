@@ -1,13 +1,8 @@
-# STARTER-lab02
+# lab02-jingxiang4766
 
-* TODO: Change the title of this README in the text `# STARTER-lab02` above
-  to match the name of your repo, i. e., `lab02-yourgithubid`, then delete
-  this TODO item.
+Javadoc: https://ucsb-cs56-w20.github.io/lab02-jingxiang4766/
+Repo: https://github.com/ucsb-cs56-w20/lab02-jingxiang4766
 
-* TODO: Correct the links to the javadoc and repo below, then delete this TODO
-
-Javadoc: https://ucsb-cs56-w20.github.io/STARTER-lab02
-Repo: https://ucsb-cs56-w20/STARTER-lab02
 
 # About this repo
 
@@ -30,4 +25,3 @@ modified for use in UCSB CMPSC 56.
 | `mvn test` | Runs one sucessful test |
 | `mvn package` | Builds the jar file `target/gs-spring-boot-0.1.0.jar` |
 | `java -jar target/gs-spring-boot-0.1.0.jar` | If done after `mvn package`, runs the code to startup a web server.  Access it via `http://localhost:8080` on the *same machine* where the server is running.  Use CTRL/C to stop it. |
-
